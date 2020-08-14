@@ -1,0 +1,2 @@
+Please go to com.gurpreet.spring.springcore.propertyplaceholder package to simulate
+the code to load properties from the global file and inject from the XML configuration file to DatabaseProperties class.
