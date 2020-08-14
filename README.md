@@ -14,3 +14,11 @@ Project5: springcoreLifeCycleMethodUsingAnnotations (2020-08-12)
 Project6: springcoreDependencyCheck (2020-08-13)
 
 Project7: springcoreInnerBeansImpl (2020-08-13)
+
+Project8: springcoreConstructorInjection (2020-08-14)
+
+Project9: springcoreConstructorArgumentAmbiguityProblem (2020-08-14)
+
+Project10: springcoreConstructorInjectionAmbiguitityProbSolved (2020-08-14)
+
+Project11: springcorePropertyPlaceHolder (2020-08-14)
