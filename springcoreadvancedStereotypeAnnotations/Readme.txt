@@ -1,0 +1,1 @@
+Explore by going to stereotype.annotation package
