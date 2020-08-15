@@ -22,3 +22,27 @@ Project9: springcoreConstructorArgumentAmbiguityProblem (2020-08-14)
 Project10: springcoreConstructorInjectionAmbiguitityProbSolved (2020-08-14)
 
 Project11: springcorePropertyPlaceHolder (2020-08-14)
+
+Project12: springcoreadvancedAutoWiringByType (2020-08-15)
+
+Project13: springcoreAdvancedAutoWiringByName (2020-08-15)
+
+Project14: springcoreadvancedAutoWiringByConstructor (2020-08-15)
+
+Project15: springcoreadvancedAutoWiringAnnotation (2020-08-15)
+
+Project16: springcoreadvancedAutoWiringAnnotationAtFieldLevel (2020-08-15)
+
+Project17: springcoreadvancedAutoWiringAnnotationConstructorLevel (2020-08-15)
+
+Project18: springcoreadvancedQualifierAnnotation (2020-08-15)
+
+Project19: springcoreadvancedStandaloneCollection (2020-08-15)
+
+Project20: springcoreadvancedStereotypeAnnotations (2020-08-15)
+
+Project21: springcoreadvancedValueAnnotationCollectionType (2020-08-15)
+
+Project22: springcoreadvancedValueAnnotationPrimitiveTypes (2020-08-15)
+
+Project23: springcoreadvancedValueAnnotationObjectType (2020-08-15)
