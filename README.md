@@ -46,3 +46,15 @@ Project21: springcoreadvancedValueAnnotationCollectionType (2020-08-15)
 Project22: springcoreadvancedValueAnnotationPrimitiveTypes (2020-08-15)
 
 Project23: springcoreadvancedValueAnnotationObjectType (2020-08-15)
+
+Project24: springcoreadvancedInterfaceInjection (2020-08-16)
+
+Project25: springcoreadavcnedInterfaceInjectionAnnotation (2020-08-16)
+
+Project26: springjdbcDatabaseCRUDOpsWithoutAnnotation (2020-08-16)
+
+Project27: springjdbcDatabaseOpsSelectAll (2020-08-16)
+
+Project28: springjdbcDatabaseCRUDOpsWithAnnotation (2020-08-16)
+
+Project29: springormJavaSpringHibernateImplementation (2020-08-16)
