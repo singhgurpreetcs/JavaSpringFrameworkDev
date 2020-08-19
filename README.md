@@ -59,4 +59,6 @@ Project28: springjdbcDatabaseCRUDOpsWithAnnotation (2020-08-16)
 
 Project29: springormJavaSpringHibernateImplementation (2020-08-16)
 
-Project29: springmvcJavaSpringMVCImplementation (2020-08-18)
+Project30: springmvcJavaSpringMVCImplementation (2020-08-18)
+
+Project31: springmvcSendingDataControllerToUI (2020-08-19)
