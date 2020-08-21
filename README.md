@@ -66,3 +66,5 @@ Project31: springmvcSendingDataControllerToUI (2020-08-19)
 Project32: springmvcSendingDataUIToController (2020-08-19)
 
 Project33: springmvcormImplementation (2020-08-20)
+
+Project34: springmvcormJQUERYAndAJAX (2020-08-21)
