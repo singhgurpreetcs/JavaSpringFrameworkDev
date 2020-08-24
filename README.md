@@ -70,3 +70,11 @@ Project33: springmvcormImplementation (2020-08-20)
 Project34: springmvcormJQUERYAndAJAX (2020-08-21)
 
 Project35: springaopImplementation (2020-08-22)
+
+Project36: springconfigjavaImplementation1 (2020-08-24)
+
+Project37: springconfigjavaBeanInjection (2020-08-24)
+
+Project38: springjavaconfigSpreadConfigurationAcrossBeans_ImportAnnotation (2020-08-24)
+
+Project39: springjavaconfigLifeCycleMethods (2020-08-24)
