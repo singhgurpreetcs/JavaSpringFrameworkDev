@@ -1,0 +1,1 @@
+Autowiring a bean using Java Configuration class.
